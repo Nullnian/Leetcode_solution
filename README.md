@@ -8,6 +8,22 @@ There are two branches: one for the solutions based on Python, and the other for
 
 # Patterns
 ## Arrays & Hashing
+### Hashmap  
+[key,value]  
+**Use:** No need to maintain array order  
+
+**New hashmap:**  
+    ``` Map<Integer, Integer> hashmap = new HashMap<Integer, Integer>(); ```  
+**Find item:**   
+    ``` hashmap.containsKey(key); ```  
+**Add item:**  
+    ``` hashmap.put(key, value); ```  
+**Get value of key:**  
+    ```hashmap.get(key);```  
+  
+    
+
+
 
 ## Two Pointers, sliding window
 
