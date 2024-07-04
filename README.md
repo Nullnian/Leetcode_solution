@@ -19,11 +19,17 @@ There are two branches: one for the solutions based on Python, and the other for
 **Add item:**  
     ``` hashmap.put(key, value); ```  
 **Get value of key:**  
-    ```hashmap.get(key);```  
+    ``` hashmap.get(key); ```  
   
     
 
-
+## Recursion
+### The Fibonacci sequence
+**Use:** f(n) = f(n-1) + f(n-2)
+**Solve:** Scrolling array
+    ``` p = q;
+        q = r;
+        r = p+q; ```
 
 ## Two Pointers, sliding window
 
