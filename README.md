@@ -1,5 +1,5 @@
 # Introduction
-### Niannu Gao
+### Nullnian
 *This is based on personal practice about the leetcode problem solution code.*
 
 The code is about the Leetcode_solution
