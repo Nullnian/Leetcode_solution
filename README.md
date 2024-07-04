@@ -26,6 +26,7 @@ There are two branches: one for the solutions based on Python, and the other for
 ## Recursion
 ### The Fibonacci sequence
 **Use:** f(n) = f(n-1) + f(n-2)
+
 **Solve:** Scrolling array
     ``` p = q;
         q = r;
