@@ -8,6 +8,7 @@ There are two branches: one for the solutions based on Python, and the other for
 
 # Patterns
 ## Arrays & Hashing
+**Example:** Leetcode 1
 ### Hashmap  
 [key,value]  
 **Use:** No need to maintain array order  
@@ -25,6 +26,7 @@ There are two branches: one for the solutions based on Python, and the other for
 
 ## Recursion
 ### The Fibonacci sequence
+**Example:** Leetcode 70
 **Use:** f(n) = f(n-1) + f(n-2)
 
 **Solve:** Scrolling array
@@ -33,6 +35,7 @@ There are two branches: one for the solutions based on Python, and the other for
         r = p+q; ```
 
 ## Two Pointers, sliding window
+**Example:** Leetcode 88; 283
 
 ## Stack, Queue
 
