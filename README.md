@@ -42,6 +42,13 @@ There are two branches: one for the solutions based on Python, and the other for
 ## Trees, backtracking, graphs
 
 ## Linked Lists
+**Example:** Leetcode 21
+
+**New list node:** 
+    ```ListNode nodename = new ListNode(0);```
+    
+**Point:**
+    ``` l1=l1.next; ```
 
 # Summerization
 1. ASCII
